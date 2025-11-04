@@ -9,6 +9,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-color: #141414;
+  padding: 50px 20px;
 }
 
 h1 {
@@ -55,5 +56,6 @@ button:focus-visible {
   justify-content: center;
   align-items: center;
   gap: 20px;
+  flex-wrap: wrap;
 }
 
