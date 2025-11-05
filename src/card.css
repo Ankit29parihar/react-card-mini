@@ -1,4 +1,3 @@
-
 .card {
     height: 300px;
     width: 250px;
@@ -93,4 +92,5 @@
 
 .bottom button {
     color: #fff;
+    background-color: #000;
 }

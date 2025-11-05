@@ -6,7 +6,7 @@ function App() {
 
   const jobListings = [
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg",
+    companyLogo: "https://pngimg.com/d/google_PNG19644.png",
     companyName: "Google",
     postedDate: "2 days ago",
     rolePosition: "Senior Frontend Developer",
@@ -33,7 +33,7 @@ function App() {
     location: "Hyderabad, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/4/48/Microsoft_logo_%282012%29.svg",
+    companyLogo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBu0cnozmDr454aSmHhedZltGVgU8fTfZwA&s",
     companyName: "Microsoft",
     postedDate: "3 days ago",
     rolePosition: "Software Engineer",
@@ -51,7 +51,7 @@ function App() {
     location: "Chennai, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tesla_Motors.svg",
+    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1587px-Tesla_Motors.svg.png",
     companyName: "Tesla",
     postedDate: "6 days ago",
     rolePosition: "React Native Developer",
@@ -60,7 +60,7 @@ function App() {
     location: "Delhi, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
+    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1280px-IBM_logo.svg.png",
     companyName: "IBM",
     postedDate: "1 week ago",
     rolePosition: "Cloud Engineer",
@@ -69,7 +69,7 @@ function App() {
     location: "Noida, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/0/02/LinkedIn_Logo.svg",
+    companyLogo: "https://cdn-icons-png.flaticon.com/256/3955/3955056.png",
     companyName: "LinkedIn",
     postedDate: "3 days ago",
     rolePosition: "Frontend Developer (React)",
@@ -78,7 +78,7 @@ function App() {
     location: "Gurgaon, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/d/db/Adobe_Corporate_Logo.png",
+    companyLogo: "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24760594/Adobe_wordmark.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
     companyName: "Adobe",
     postedDate: "2 days ago",
     rolePosition: "Senior UI/UX Designer",
@@ -87,7 +87,7 @@ function App() {
     location: "Bengaluru, India"
   },
   {
-    companyLogo: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png",
+    companyLogo: "https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-index-content-uploads-10.png",
     companyName: "Apple",
     postedDate: "5 days ago",
     rolePosition: "Frontend Developer (Next.js)",
